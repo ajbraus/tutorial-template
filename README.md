@@ -1,8 +1,6 @@
 # Tutorial Title
 
-## Introduction/Welcome
-
-:+1: This is a great tutorial! :shipit:
+Welcome to this awesome tutorial! :+1: This is a great tutorial! :shipit:
 
 ## What You Will Build
 
