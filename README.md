@@ -10,7 +10,12 @@
 
 ![Gif](https://media1.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
 
-## What You Will Learn
+## Tutorial Topics
+
+1. Resourceful Routing
+1. Many-to-Many Associations
+1. Authentication
+1. Authorization
 
 ## Steps/Chapters
 
