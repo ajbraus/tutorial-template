@@ -8,7 +8,7 @@
 
 ![Sample App](https://blog.zogdigital.com/wp-content/uploads/2015/05/pinterest-marketing-mobile.jpg)
 
-![Gif](https://giphy.com/embed/3o7521VXIMxTqqVJuM)
+![Gif](https://media1.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
 
 ## What You Will Learn
 
