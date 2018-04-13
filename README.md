@@ -6,7 +6,7 @@
 
 ## What You Will Build
 
-![https://blog.zogdigital.com/wp-content/uploads/2015/05/pinterest-marketing-mobile.jpg]
+![Sample App](https://blog.zogdigital.com/wp-content/uploads/2015/05/pinterest-marketing-mobile.jpg)
 
 ## What You Will Learn
 
