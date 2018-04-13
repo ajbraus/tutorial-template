@@ -4,8 +4,9 @@ Welcome to this awesome tutorial! :+1: This is a great tutorial! :shipit:
 
 ## What You Will Build
 
+Examples of images:
 ![Sample App](https://blog.zogdigital.com/wp-content/uploads/2015/05/pinterest-marketing-mobile.jpg)
-
+Examples of gif:
 ![Gif](https://media1.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
 
 ## Tutorial Topics
@@ -26,3 +27,6 @@ Welcome to this awesome tutorial! :+1: This is a great tutorial! :shipit:
 
 
 
+## Sample Video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WFn55BBOFI0/0.jpg)](https://www.youtube.com/watch?v=WFn55BBOFI0)
