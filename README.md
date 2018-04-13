@@ -8,6 +8,8 @@
 
 ![Sample App](https://blog.zogdigital.com/wp-content/uploads/2015/05/pinterest-marketing-mobile.jpg)
 
+![Gif](https://giphy.com/embed/3o7521VXIMxTqqVJuM)
+
 ## What You Will Learn
 
 ## Steps/Chapters
